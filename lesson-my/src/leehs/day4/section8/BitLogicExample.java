@@ -1,4 +1,4 @@
-package day4.section8;
+package leehs.day4.section8;
 
 public class BitLogicExample {
 	public static void main(String[] args) {

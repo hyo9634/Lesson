@@ -1,4 +1,4 @@
-package day18;
+package leehs.day18;
 
 import java.util.StringTokenizer;
 

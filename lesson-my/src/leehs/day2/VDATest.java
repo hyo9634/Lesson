@@ -1,4 +1,4 @@
-package day2;
+package leehs.day2;
 
 public class VDATest {
     public static void main(String[] args) {

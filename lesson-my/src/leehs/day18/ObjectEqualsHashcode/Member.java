@@ -1,8 +1,7 @@
-package day18.ObjectEqualsHashcode;
+package leehs.day18.ObjectEqualsHashcode;
 
 import java.util.Objects;
-import lombok.AllArgsConstructor;
-import lombok.Data;
+import lombok.*;
 
 @Data
 @AllArgsConstructor

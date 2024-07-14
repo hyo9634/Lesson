@@ -1,4 +1,4 @@
-package day1;
+package leehs.day1;
 
 public class Calculator {
 

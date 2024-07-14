@@ -1,4 +1,4 @@
-package day18.ObjectEqualsHashcode;
+package leehs.day18.ObjectEqualsHashcode;
 
 public class MemberMain {
 

@@ -1,3 +1,4 @@
+/*
 package day18.lombokEX;
 
 
@@ -25,3 +26,4 @@ public class ShopMain {
 
   }
 }
+*/

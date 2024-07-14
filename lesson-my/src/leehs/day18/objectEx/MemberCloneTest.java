@@ -1,4 +1,4 @@
-package day18.objectEx;
+package leehs.day18.objectEx;
 
 public class MemberCloneTest {
 
@@ -15,11 +15,11 @@ public class MemberCloneTest {
       System.out.printf("address1 hashcode : %s, addr : %s\n", address1, address1.getAddr());
       System.out.printf("address1 hashcode : %s, addr : %s\n", address2, address2.getAddr());
 
-
+      System.out.println("=====================================");
       //얕은 복사
       System.out.println(member1);
       System.out.println(member2);
-
+      System.out.println("=====================================");
       address1 = new Address(10002, "서울시 금천구");
       String addr =  address1.getAddr();//객체 주소값 복사
       address1.setAddr(addr);
